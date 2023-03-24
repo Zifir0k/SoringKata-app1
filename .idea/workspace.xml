@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53f90d63-eac5-42b9-a51e-7ef73c74f695" name="Changes" comment="third lesson">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/example/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
     </list>
@@ -61,13 +60,24 @@
   <component name="RunManager">
     <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.TestSpring" />
-      <module name="SoringKata-app1" />
+      <module name="SpringKata-app1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,6 +103,7 @@
       <workItem from="1679494863865" duration="2087000" />
       <workItem from="1679534919713" duration="3228000" />
       <workItem from="1679646285233" duration="813000" />
+      <workItem from="1679648453173" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1679337574319</created>

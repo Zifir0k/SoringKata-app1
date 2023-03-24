@@ -1,5 +1,8 @@
 package example;
 
+import org.springframework.stereotype.Component;
+
+@Component("someClassicalMusic")
 public class ClassicalMusic implements Music{
     public void doMyInit(){
         System.out.println("Start init method");
